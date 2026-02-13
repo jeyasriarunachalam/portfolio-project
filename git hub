@@ -1,0 +1,17 @@
+# GitHub Portfolio Analyzer
+
+This is a Streamlit web app that analyzes a GitHub profile and provides a portfolio score with suggestions.
+
+## Features
+- Analyzes GitHub repositories
+- Gives portfolio score
+- Suggests improvements
+
+## Built With
+- Python
+- Streamlit
+
+## How to Run
+
+pip install streamlit
+python -m streamlit run app.py
